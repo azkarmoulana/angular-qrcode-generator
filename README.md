@@ -2,3 +2,4 @@
 :hash: generate QR codes with angular
 
 ***
+Libraries used
