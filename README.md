@@ -1,4 +1,4 @@
 # angular-qrcode-generator
-:hash: generate QR codes with angular
+generate QR codes with angular
 
 ***
